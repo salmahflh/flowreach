@@ -27,13 +27,6 @@ header .navbar img{
   margin-left: 10px;
   margin-right: 50px;
 }
-#menu-icon{
-  font-size: 35px;
-  z-index: 10001;
-  cursor: pointer;
-  display: none;
-  color: white;
-}
 
 .desktop-homepage {
   background-color: #000000;
